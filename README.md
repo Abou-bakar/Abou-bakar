@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img class="devicon-github-original" height="60" alt="github logo" />
+  <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" height="60" alt="github logo" />
 </div>
 
 ###
