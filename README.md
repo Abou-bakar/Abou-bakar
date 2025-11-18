@@ -41,8 +41,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abou-bakar/count.svg?"  />
-</div>
-
 ###
