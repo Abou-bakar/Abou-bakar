@@ -38,14 +38,12 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abou-bakar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Abou-bakar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abou-bakar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </div>
-###
-
 ###
