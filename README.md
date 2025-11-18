@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abu Bakar Siddique 👋 <br>I'm a Software Engineer and Full Stack Developer</h1>
 
-###
-<p align="center">
+### My Skills
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,mysql,git,github" />
   </a>
@@ -34,9 +34,9 @@
   <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" height="60" alt="github logo" />
 </div> -->
 
-###
+### Connect with me!
 
-<div align="center">
+<div>
  <a href="https://www.linkedin.com/in/abou-bakar-siddique/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
 
@@ -46,7 +46,8 @@
   <img src="https://streak-stats.demolab.com?user=Abou-bakar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Abou-bakar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div> -->
+### GitHub Stats
 
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=abou-bakar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </div>
