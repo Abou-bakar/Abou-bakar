@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I'm Abu Bakar Siddique 👋 <br>I'm a Software Engineer and Full Stack Developer</h1>
 
 ###
-
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,mysql,git,github" />
+  </a>
+</p>
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
@@ -28,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" height="60" alt="github logo" />
-</div>
+</div> -->
 
 ###
 
