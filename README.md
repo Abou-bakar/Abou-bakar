@@ -4,6 +4,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,mysql,git,github" />
+    <!-- <img src="https://skills.syvixor.com/api/icons?i=shadcnui" /> -->
   </a>
 </p>
 <!-- <div align="center">
