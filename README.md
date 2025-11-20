@@ -7,7 +7,7 @@
   </a>
 </p> -->
 <p>
-  <a href="https://skillicons.dev](https://github.com/syvixor/skills-icons">
+  <a href="https://github.com/syvixor/skills-icon">
     <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcnui,node,expressjs,mongodb,mysql,clerk,git,github" />
   </a>
 </p>
