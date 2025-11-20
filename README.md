@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm Abu Bakar Siddique 👋 <br>I'm a Software Engineer and Full Stack Developer</h1>
 
 ### My Skills
-<p>
+<!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,mysql,git,github" />
-    <!-- <img src="https://skills.syvixor.com/api/icons?i=shadcnui" /> -->
+  </a>
+</p> -->
+<p>
+  <a href="https://skillicons.dev](https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcnui,node,expressjs,mongodb,mysql,clerk,git,github" />
   </a>
 </p>
 <!-- <div align="center">
